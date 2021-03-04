@@ -7,7 +7,7 @@ Hey there! This is the testgs repo!!
 
 # Setup environment
 
-The new Gatsby Docs site uses MDX to support more interactive documentation that uses JavaScript-based components.
+The new Gatsby Docs site uses MDX to support more interactive documentation that uses JavaScript components.
 
 To begin developing documentation for this site, clone the [gatsby-doc-site repository][repo] and follow the instructions in the `README.md` file.
 
